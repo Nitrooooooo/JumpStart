@@ -1,0 +1,7 @@
+Adds a starter bag, which gives:
+Iron tools and armor
+Hermes Boots
+Cloud in a Bottle
+If magic storage is installed some basic storage.
+
+I made this since I was bored of playing through the early game in all my worlds.
